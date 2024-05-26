@@ -9,3 +9,4 @@ This project is a comprehensive sales dashboard created using Microsoft Power BI
 - **Top 5 Best Selling Projects**: Another bar chart showing the quantity ordered for the top projects.
 - **Top 5 Cities by Sales**: A map visualization that shows the geographical distribution of sales, pinpointing the top cities contributing to sales.
 - **Interactive Slicers**: Slicers for City, Month, Week, and Product allow users to filter data dynamically and see how different segments perform.
+![SALES DASHBOARD](https://github.com/biccoomondi/SALES-ANALYSIS-USING-POWER-BI/assets/170850731/d3b99873-dbb5-4773-ae0e-f724a28fafe3)
